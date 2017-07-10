@@ -13,8 +13,11 @@
 # Dataset Exploration
 ## Dataset Summary
 Number of training examples = 34799
+
 Number of testing examples = 12630
+
 Image data shape = (32, 32, 3)
+
 Number of classes = 43
 
 ## Exploratory Visualization
